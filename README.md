@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a recent CS graduate passionate about backend development.<br>I'm currently making a developer portfolio website.
+I'm a master student in artificial intelligence and data sciene passionate about fullstack development.<br>I'm currently making a developer portfolio website.
 
 
 # 💻 Tech Stack:
